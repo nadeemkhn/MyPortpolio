@@ -11,7 +11,7 @@ const Hero = () => {
                 <motion.h1 className='pb-16 text-6xl font-thin tracking-tight lg:mt-16'>
                     Muhammad Nadeem
                 </motion.h1>
-                <span className='bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-4xl rounded-md'>FrontEnd and Odoo Developer</span>
+                <span className='bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-4xl rounded-md'>Odoo Technical Developer and Frontend Developer</span>
                 <p className='mt-3'>As a skilled odoo Technical developer and frontend,<p> I can customize a module from scratch and can make changes in existing module</p>. specialize in building responsive and user-friendly web interfaces with expertise in HTML, CSS, JavaScript, and modern frameworks like React. I am passionate about creating seamless user experiences and have a strong eye for design and detail, ensuring every project is visually engaging and functionally robust.</p>
             </div>
             </div>
