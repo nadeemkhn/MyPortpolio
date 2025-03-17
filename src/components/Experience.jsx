@@ -21,6 +21,8 @@ const Experience = () => {
           "Familiar with all versions of Odoo.",
           "Integrated Odoo with WhatsApp.",
           "Integrated Odoo with Attendance Machine.",
+          "work on the Odoo.sh",
+          "server installation and error debugging"     
         ],
       },
     ];
