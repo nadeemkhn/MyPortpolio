@@ -1,17 +1,28 @@
 export const Projects = [
     {
-        Title: "Medicine Pharmacy",
-        Description: `Developed a custom Odoo module to streamline operations for a medicine distribution company.
-                     Features include managing medicine inventory, tracking suppliers, monitoring stock levels, and
-                     generating detailed sales and distribution reports.`,
-        Technologies: ["Python  |", "XML"]
+        Title: "Rehman Habib Consulting",
+        Description: `Customized CRM, HR Payroll, Sales, Purchase, and Accounting modules in Odoo. Integrated
+                     attendance and WhatsApp, deployed Odoo on domain, and tailored employee and expense
+                     management functionalities.`,
+        Technologies: ["Odoo  |", "Python  |", "XML"]
     },
     {
-        Title: "Marble Manufacturing & Sales",
-        Description: `Designed an Odoo module for a marble manufacturing company. The process starts with 
-                     manufacturing, followed by sales orders. Upon order placement, stock is checked in a custom 
-                     model. If available, it proceeds to order processing; if not, a purchase request is generated.`,
-        Technologies: ["Python  |", "Odoo  |", "PostgreSQL"]
+        Title: "Avant Garde",
+        Description: `Integrated Shopify with Odoo for full automation. Customized Sales, Purchase, Inventory, 
+                     Accounting, and HR modules. Also handled MRP and WhatsApp integration.`,
+        Technologies: ["Odoo  |", "Python  |", "Shopify | ","REST APIs" ]
+    },
+    {
+        Title: "Hafiz Marble",
+        Description: `Overrode widgets in sales, purchase, and accounting documents. Created custom widgets. 
+                     Integrated attendance and WhatsApp. Customized inventory, sales, and accounting workflows.`,
+        Technologies: ["Odoo  |", "Python  |", "XML |" ,"Owl Js"]
+    },
+    {
+        Title: "ALBARI Consulting Group",
+        Description: `Performed CRM and Email module customizations. Installed and configured Odoo and Nginx 
+                     server. Migrated ALBARI from Odoo 15 to Odoo 17 and integrated attendance and WhatsApp.`,
+        Technologies: ["Odoo  |", "Server Setup  |", "Python |","OWL Js "]
     }
 ];
 

@@ -1,6 +1,6 @@
-import React from 'react'
-import Profile from '../assets/Profile.jpg'
-import { motion } from 'framer-motion'
+import React from 'react';
+import Profile from '../assets/Profile.jpg';
+import { motion } from 'framer-motion';
 
 const Hero = () => {
   return (
@@ -29,8 +29,7 @@ const Hero = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
 export default Hero;
-
